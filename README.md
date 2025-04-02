@@ -20,4 +20,4 @@
 🔹 [**Projeto 2** - CRUD com Python e SQL](https://github.com/seuperfil/projeto2)  
 
 📫 **Contato:**  
-[![LinkedIn](https://www.linkedin.com/in/alissonfreire/)  
+[![LinkedIn](www.linkedin.com/in/alissonfreire)  
